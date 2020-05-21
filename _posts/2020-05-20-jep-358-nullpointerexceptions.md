@@ -1,5 +1,5 @@
 ---
-title: JEP 358: Helpful NullPointerExceptions
+title: JEP 358 - Helpful NullPointerExceptions
 description: In this post we will learn how to use the new feature that show us more details on exceptions.
 categories:
  - tutorial
